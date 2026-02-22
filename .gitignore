@@ -1,0 +1,11 @@
+# Fichiers système macOS
+.DS_Store
+._*
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+
+# Dossiers de configuration d'éditeurs
+.vscode/
+.idea/
